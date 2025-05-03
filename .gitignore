@@ -1,0 +1,5 @@
+Code/App/Backend/models/save/*
+Code/App/Backend/venv/
+**/__pycache__/
+**/*.pyc
+Code/App/Frontend/node_modules/
