@@ -1,8 +1,8 @@
 # Hướng Dẫn Cài Đặt và Chạy Ứng Dụng
 
 ## Yêu Cầu
-- Node.js (với `npm`)
-- Python 3.7+
+- Node.js v22.15.0 (với `npm`)
+- Python 3.12.3
 - MongoDB (cloud)
 - Hệ điều hành: Windows (hướng dẫn dùng cú pháp cho Windows, nếu dùng macOS hoặc Linux, cần điều chỉnh lại cú pháp cho phù hợp)
 ---
